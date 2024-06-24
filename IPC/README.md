@@ -1,4 +1,4 @@
-# Ipc</div>
+# Ipc - Inter-Process Communication</div>
 Task 2 : Linux practice - Operating systems course.</div>
 
 ## Project Description:</div>
