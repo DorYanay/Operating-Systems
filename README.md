@@ -2,7 +2,8 @@
 > This repository contains all the assignments i got during the Operating-Systems course in the University.
 
 ### *Course Description:*
-This course provides fundamental tools for structured programming in Java and Python.
+The purpose of this course is to provide an overview of computer operating systems system programming under Linux and the Linux kernel.
+Topics to be discussed include a brief history of OS and their design and development. System programming, Design patterns and kernel development. The course will cover major components, design patterns and the algorithms and implementation techniques used to create them.
 
 ## Assignments:
 
