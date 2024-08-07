@@ -8,7 +8,7 @@ Topics to be discussed include a brief history of OS and their design and develo
 ## Assignments:
 
 - **Assignment 1: [Basic Shell](https://github.com/DorYanay/Operating-Systems/tree/main/Basic_Shell)**
-   - Description: Focusing on the observer design pattern. The project involves an "UndoableStringBuilder" class, along with a "GroupAdmin" class that manages members and notifies them of changes
+   - Description: Building a basic Linux Shell using multi-process execvs.
 
 - **Assignment 2: [IPC - Inter-Process Communication](https://github.com/DorYanay/Operating-Systems/tree/main/IPC)**
    - Description: Create new types that extend the functionality of Java`s Concurrency Framework.
